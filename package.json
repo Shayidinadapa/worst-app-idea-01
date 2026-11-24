@@ -1,0 +1,1 @@
+{"description":"RainRadar: live satellite rain alerts for commuters who refuse to look out a window. Entry for make.fun's The Worst App Idea Ever Pitched bounty.","license":"MIT","main":"main.ts","name":"worst-app-idea-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
